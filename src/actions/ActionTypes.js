@@ -1,0 +1,5 @@
+export const SIGN_UP = 'SIGN_UP'
+export const SIGN_IN = 'SIGN_IN'
+export const IS_LOADING = 'IS_LOADING'
+export const AUTO_SIGN_IN = 'AUTO_SIGN_IN'
+export const GET_ALL_GAMES = 'GET_ALL_GAMget'
